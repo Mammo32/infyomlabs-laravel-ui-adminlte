@@ -11,15 +11,7 @@
 
 Run a command,
 
-`composer require infyomlabs/laravel-ui-adminlte`
-
-For Laravel 7,
-
-`composer require infyomlabs/laravel-ui-adminlte:^2.0`
-
-For Laravel 6,
-
-`composer require infyomlabs/laravel-ui-adminlte:^1.0`
+`composer require mammo32/infyomlabs-laravel-ui-adminlte`
 
 ## Usage
 
